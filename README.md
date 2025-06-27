@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" alt="logo"></img>
+  <img src="\Nexora.png" alt="Nexora Logo" height="80px" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" alt="JAX Logo" height="80px" />
 </div>
-
 # Transformable numerical computing at scale
 
 [![Continuous integration](https://github.com/jax-ml/jax/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/jax-ml/jax/actions/workflows/ci-build.yaml)
@@ -13,6 +14,7 @@
 | [**Change logs**](https://docs.jax.dev/en/latest/changelog.html)
 | [**Reference docs**](https://docs.jax.dev/en/latest/)
 
+## Nexora on top of JAX.
 
 ## What is JAX?
 
