@@ -77,6 +77,10 @@ def eager_unary_dispatch(state):
     lax.neg(a)
 
 
+
+#fix this
+#FIX WHAT???????
+
 @google_benchmark.register
 def eager_unary(state):
   a = jax.device_put(1)
